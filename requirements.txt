@@ -1,0 +1,7 @@
+pip
+ipython
+numpy
+pandas
+scipy
+sklearn
+torch
